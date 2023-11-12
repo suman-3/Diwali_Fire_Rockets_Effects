@@ -5,7 +5,7 @@ Created a unique and glowing Javascript Project of Fire Rockets Effect using HTM
 Do Watch the video tutorial of this Project to get the concept.
 
 
-[🔵 Live Project URL](https://teenageprogrammer.github.io/Diwali-Fire-Rockets-Effect-Javascript/)
+[🔵 Live Project URL](https://diwali-fire-rockets-effects.vercel.app/)
 
 
 
